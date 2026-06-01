@@ -4,22 +4,22 @@
     <title>My App – Appcast</title>
 
     <item>
-      <title>Version 1.0.13 (Android)</title>
+      <title>Version 1.0.14 (Android)</title>
       <description>• Redesign app </description>
-      <pubDate>Tue, 8 May 2025 13:20:00 +0000</pubDate>
+      <pubDate>Mon, 1 jun 2026 11:10:00 +0000</pubDate>
       <enclosure
         url="https://play.google.com/store/apps/details?id=com.awlyg.schoolygEnseignant"
-        sparkle:version="1.0.13"
+        sparkle:version="1.0.14"
         sparkle:os="android" />
     </item>
 
     <item>
-      <title>Version 1.0.13 (iOS)</title>
+      <title>Version 1.0.14 (iOS)</title>
       <description>• Performance improvements </description>
-      <pubDate>Tue, 8 May 2025 13:20:00 +0000</pubDate>
+      <pubDate>Mon, 1 Jun 2026 11:10:00 +0000</pubDate>
       <enclosure
         url="https://apps.apple.com/us/app/prof-el-mourad-carrefour/id6737703200"
-        sparkle:version="1.0.13"
+        sparkle:version="1.0.14"
         sparkle:os="ios" />
     </item>
   </channel>
