@@ -1,6 +1,6 @@
 {
-  "minVersion": "1.0.13",
-  "latestVersion": "1.0.13",
+  "minVersion": "1.0.14",
+  "latestVersion": "1.0.14",
   "forceOn": ["android","ios"],
   "note": "Performance improvements - must update"
 }
